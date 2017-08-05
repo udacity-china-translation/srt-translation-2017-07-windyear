@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,000 --> 00:00:04,004
 假设我们的本地代码库中有这些分支
 
@@ -40,7 +40,7 @@ Master、footer fix 和 bugfix-login-form
 
 11
 00:00:28,370 --> 00:00:32,179
-我们可以将 footer fix 分支和 bugfix-login-form 分支合并到 master分支
+我们可以将 footer fix 分支和 bugfix-login-form 分支合并到 master 分支
 
 12
 00:00:32,179 --> 00:00:36,000
