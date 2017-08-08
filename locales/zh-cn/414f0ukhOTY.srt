@@ -4,7 +4,7 @@
 
 2
 00:00:04,004 --> 00:00:08,844
-Master、footer fix 和 bugfix-login-form
+master、footer-fix 和 bugfix-login-form
 
 3
 00:00:08,845 --> 00:00:10,075
@@ -40,7 +40,7 @@ Master、footer fix 和 bugfix-login-form
 
 11
 00:00:28,370 --> 00:00:32,179
-我们可以将 footer fix 分支和 bugfix-login-form 分支合并到 master 分支
+我们可以将 footer-fix 分支和 bugfix-login-form 分支合并到 master 分支
 
 12
 00:00:32,179 --> 00:00:36,000
@@ -48,5 +48,5 @@ Master、footer fix 和 bugfix-login-form
 
 13
 00:00:36,000 --> 00:00:40,000
-或者我们可以将所有三个分支发送到远程存储库
+或者我们可以将所有三个分支发送到远程代码库
 

@@ -4,7 +4,7 @@ Let's say that our local repository has these branches in it.
 
 2
 00:00:04,004 --> 00:00:08,844
-Master, footer fix, and bugfix-login-form.
+master, footer-fix, and bugfix-login-form.
 
 3
 00:00:08,845 --> 00:00:10,075
@@ -40,7 +40,7 @@ We can do this in two ways,
 
 11
 00:00:28,370 --> 00:00:32,179
-we can merge footer fix and bugfix-login-form into
+we can merge footer-fix and bugfix-login-form into
 
 12
 00:00:32,179 --> 00:00:36,000
